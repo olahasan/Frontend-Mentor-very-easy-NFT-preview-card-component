@@ -22,6 +22,8 @@ This is a solution to the [NFT preview card component](https://www.frontendmento
 
 ### The challenge
 
+This HTML & CSS only challenge is perfect for anyone just starting out or anyone wanting a small project to play around with.
+
 users should be able to:
 
 View the optimal layout depending on their device's screen size
